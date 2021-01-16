@@ -107,3 +107,7 @@ section {
     .wpp-btn:hover {
         border-bottom: none;
     }
+
+    .navbar {
+        transition: 1s;
+    }
