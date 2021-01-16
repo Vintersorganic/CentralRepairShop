@@ -18,12 +18,8 @@
     font-family: 'Archivo', sans-serif;
 }
 
-.active {
+.a-link:hover {
     border-bottom: 2px solid white;
-}
-
-.nav-link:hover {
-    transform: scale(1.2);
 }
 
 .pill-phone {
@@ -102,4 +98,12 @@ section {
 
     a {
         color: white !important;
+    }
+
+    .wpp-btn {
+        background-color: #25d366 !important;
+    }
+
+    .wpp-btn:hover {
+        border-bottom: none;
     }
